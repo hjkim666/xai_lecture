@@ -7,7 +7,8 @@
       
 - 2. VS code install    
     download file 
-    https://code.visualstudio.com/download    
+    https://code.visualstudio.com/download  
+    vscode > extension tab (left menu) > "jupyter" search & install  / "Jupyter Keymap"      
 
 - 3. Virtual enviorment 
   ```
@@ -26,6 +27,12 @@
   pip install -r requirements.txt
   ```
 
+- 6. select python environment    
+  View> command palette   
+  Python select interpretor   
+  select "venv"   
+     
+     
 - - -
 ### References 
 Link: [lime][limelink]
